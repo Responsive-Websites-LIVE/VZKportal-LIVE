@@ -232,7 +232,7 @@ h6 {
   -webkit-transform: translate(0px, -50%);
       -ms-transform: translate(0px, -50%);
           transform: translate(0px, -50%);
-  background: url("../../img/icons/arrow-right-icon.svg") center/100% no-repeat;
+  background: url("../img/icons/arrow-right-icon.svg") center/100% no-repeat;
 }
 
 .news-page__filter {
@@ -800,7 +800,7 @@ main {
   right: -120px;
   width: 260px;
   height: 380px;
-  background: url("../../img/contact/background-decor.svg") center/100% no-repeat;
+  background: url("../img/contact/background-decor.svg") center/100% no-repeat;
 }
 
 .header__inner {
@@ -922,7 +922,7 @@ main {
           transform: translate(0px, -50%);
   width: 12px;
   height: 7px;
-  background: url("../../img/icons/menu-nav/arrow-bottom.svg") center/100% no-repeat;
+  background: url("../img/icons/menu-nav/arrow-bottom.svg") center/100% no-repeat;
   -webkit-transition: -webkit-transform 0.3s ease 0s;
   transition: -webkit-transform 0.3s ease 0s;
   -o-transition: transform 0.3s ease 0s;
@@ -1134,7 +1134,7 @@ main {
 }
 
 .preview-block {
-  background: url("../../img/home/main-section/mobile-background-main-min.png") center 160px/160% no-repeat;
+  background: url("../img/home/main-section/mobile-background-main-min.png") center 160px/160% no-repeat;
 }
 
 .preview-block__inner {
@@ -1177,7 +1177,7 @@ main {
   position: absolute;
   top: -20px;
   left: 50%;
-  background: url("../../img/home/about/background-union.png") top/100% no-repeat;
+  background: url("../img/home/about/background-union.png") top/100% no-repeat;
   z-index: -2;
   -webkit-transform: translate(-50%, 0%);
       -ms-transform: translate(-50%, 0%);
@@ -1432,21 +1432,21 @@ main {
 }
 
 .contact-page__name-input {
-  background-image: url("../../img/icons/person-icon.svg");
+  background-image: url("../img/icons/person-icon.svg");
   background-repeat: no-repeat;
   background-position: calc(100% - 16px) center;
   background-size: 14px 14px;
 }
 
 .contact-page__email-input {
-  background-image: url("../../img/icons/mail-icon.svg");
+  background-image: url("../img/icons/mail-icon.svg");
   background-repeat: no-repeat;
   background-position: calc(100% - 16px) center;
   background-size: 12px 10px;
 }
 
 .contact-page__text-area textarea {
-  background-image: url("../../img/icons/message-icon.svg");
+  background-image: url("../img/icons/message-icon.svg");
   background-repeat: no-repeat;
   background-position: calc(100% - 16px) 14px;
   background-size: 12px 12px;
@@ -1480,7 +1480,7 @@ main {
 .contact-page__email-contact {
   color: #4896d2;
   padding-left: 26px;
-  background: url("../../img/icons/mail-blue.svg") left 3px/12.8px 10.6px no-repeat;
+  background: url("../img/icons/mail-blue.svg") left 3px/12.8px 10.6px no-repeat;
 }
 
 .main__about-list {
@@ -1661,7 +1661,7 @@ main {
       -ms-transform: rotate(-24deg);
           transform: rotate(-24deg);
   z-index: -1;
-  background: url("../../img/error/background-2.svg") center/100% no-repeat;
+  background: url("../img/error/background-2.svg") center/100% no-repeat;
 }
 
 .error-page__inner::after {
@@ -1676,7 +1676,7 @@ main {
   -webkit-transform: rotate(-18deg);
       -ms-transform: rotate(-18deg);
           transform: rotate(-18deg);
-  background: url("../../img/error/background-1.svg") center/100% no-repeat;
+  background: url("../img/error/background-1.svg") center/100% no-repeat;
 }
 
 .error-page__title {
@@ -1832,7 +1832,7 @@ main {
   left: 14px;
   width: 18px;
   height: 22px;
-  background: url("../../img/icons/book-icon.svg") center/100% no-repeat;
+  background: url("../img/icons/book-icon.svg") center/100% no-repeat;
   -webkit-transform: translate(0%, -50%);
       -ms-transform: translate(0%, -50%);
           transform: translate(0%, -50%);
@@ -1845,7 +1845,7 @@ main {
   right: 14px;
   width: 14px;
   height: 14px;
-  background: url("../../img/icons/download-icon.svg") center/100% no-repeat;
+  background: url("../img/icons/download-icon.svg") center/100% no-repeat;
   -webkit-transform: translate(0%, -50%);
       -ms-transform: translate(0%, -50%);
           transform: translate(0%, -50%);
@@ -2607,7 +2607,7 @@ main {
   }
 
   .preview-block {
-    background-image: url("../../img/home/main-section/background-main-min.png");
+    background-image: url("../img/home/main-section/background-main-min.png");
     background-size: 170%;
     background-position: center 50px;
   }
@@ -4610,7 +4610,7 @@ main {
 
 @media screen and (min-width: 1400px) {
   .wrapper-mod {
-    background-image: url("../../img/home/main-section/background-main-min.png");
+    background-image: url("../img/home/main-section/background-main-min.png");
     background-position: center -60px;
     background-size: 120%;
     background-repeat: no-repeat;
